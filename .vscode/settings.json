@@ -1,0 +1,8 @@
+{
+  "reason.codelens.enabled": true,
+  "reason.diagnostics.tools": [
+    "merlin",
+    "./node_modules/bs-platform/lib/bsb"
+  ],
+  "editor.formatOnSave": true
+}
